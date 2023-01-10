@@ -1,0 +1,10 @@
+1- URL to request token for specific user
+    Token
+
+2- Only authenticated users can update\create meal rate
+
+3- Register user
+    URL > viewsets > serializer > ser model > User defult django
+    URL > viewsets > serializer > ser model > User custom abstract
+
+4- general security checks
